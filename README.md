@@ -81,5 +81,5 @@ Mobile version using Kivy or Flutter
 
 👨‍💻 Author
 Pramod Kumawat
-📧 [Email (optional)]
+📧 [Email (pramodbardoti@gmail.com)]
 🌐 [Shine / GitHub / LinkedIn link if you want]
